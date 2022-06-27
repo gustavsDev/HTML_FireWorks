@@ -2,7 +2,7 @@ let fireworks = [];
 let particles = [];
 
 function FireRocket() {
-	fireworks.push(new Firework(mouseX, height, 0, 0, color(255, 255, 255)));
+	fireworks.push(new Firework(mouseX, height, 0, 0, color(random(255), 255, 255)));
 }
 
 function Explode(x, y, color) {
