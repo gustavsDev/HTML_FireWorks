@@ -1,2 +1,2 @@
-# HTML_FireWorks
-FireWorks coded in P5.js and html
+# Fire Works
+A fire work simulator, simulated in p5.js and html.
